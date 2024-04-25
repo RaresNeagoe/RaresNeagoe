@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RaresNeagoe
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning C#, Java, JavaScript
-- 📫 How to reach me: Email: raresh.neagoe@gamil.com
+- 📫 How to reach me: Email: raresh.neagoe@gmail.com
 - ⚡ Fun fact: I have been playing tennis for the past 5 years (with a coach) and I'm still pretty bad at it.
 
 <!---
